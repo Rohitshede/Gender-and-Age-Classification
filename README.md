@@ -10,6 +10,6 @@ The main goal of this project is to develop accurate models for classifying gend
 - Evaluation: Assessing the performance of the trained model using appropriate metrics.
 
 ## Dataset
-The dataset used for this project is sourced from Kaggle and contains 23,710 images. Each image is labeled as Age_Gender_Etnicity_Id.
+The dataset used for this project is sourced from Kaggle and contains 23,710 images. Each image is labeled as Age_Gender_Ethnicity_Id.
 
 Dataset Source: https://www.kaggle.com/datasets/abhikjha/utk-face-cropped
